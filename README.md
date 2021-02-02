@@ -1,2 +1,2 @@
-# Slave2
-This is for Jenkins Master Slave2 Demo
+# amazon
+This is online shopping portal
